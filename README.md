@@ -13,7 +13,7 @@ Subscribe to our [AI Interest Group Events Google Calendar](https://calendar.goo
 **Past Events**
 |Date|Time|Type|Topic|Slides|Recording|Extra Resources|Speakers|Place|
 |:--|:--|:--|:--|:--|:--|:--|:--|:-|
-|6.13|10-11am (CST)|Seminar|Imitation Learning|[Slides]( https://docs.google.com/presentation/d/1iXYph7-qjocFYNtgfjTTMbyc2iN_iay0XGn5hqSH9ik/edit?slide=id.gca4b07d14b_1_0#slide=id.gca4b07d14b_1_0)|[Recording]([https://drive.google.com/file/d/1-APIHGmV7iR4G2CnR4ld52L5sDR5Tvdv/view?usp=drive_link](https://nyu.zoom.us/rec/share/0ilT-NRjkff_ME2xcIu2RmDpmKy3UrVGjVZTAcQJqp8sAPmsND8wCpnP4BiCFpED.dezHj7R-iQLcPZvt?startTime=1749780145000))|/|Zhuoran(Jolia) Chen|Online|
+|6.13|10-11am (CST)|Seminar|Imitation Learning|[Slides]( https://docs.google.com/presentation/d/1iXYph7-qjocFYNtgfjTTMbyc2iN_iay0XGn5hqSH9ik/edit?slide=id.gca4b07d14b_1_0#slide=id.gca4b07d14b_1_0)|[Recording](https://nyu.zoom.us/rec/share/0ilT-NRjkff_ME2xcIu2RmDpmKy3UrVGjVZTAcQJqp8sAPmsND8wCpnP4BiCFpED.dezHj7R-iQLcPZvt?startTime=1749780145000)|/|Zhuoran(Jolia) Chen|Online|
 
 
 
